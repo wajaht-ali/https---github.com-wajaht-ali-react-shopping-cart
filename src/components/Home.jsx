@@ -11,7 +11,7 @@ const Home = () => {
   const Productlist = [
     { 
       name: "Mac-Book", 
-      price: 700, 
+      price: 200, 
       // imgSrc: img1,
       imgSrc: img1, 
       id: "abc" 
@@ -19,6 +19,45 @@ const Home = () => {
     { 
       name: "DDR4", 
       price: 300, 
+      imgSrc: img1, 
+      id: "jpl" 
+    },
+    { 
+      name: "Mac-Book", 
+      price: 400, 
+      // imgSrc: img1,
+      imgSrc: img1, 
+      id: "abc" 
+    }, 
+    { 
+      name: "DDR4", 
+      price: 500, 
+      imgSrc: img1, 
+      id: "jpl" 
+    },
+    { 
+      name: "Mac-Book", 
+      price: 600, 
+      // imgSrc: img1,
+      imgSrc: img1, 
+      id: "abc" 
+    }, 
+    { 
+      name: "DDR4", 
+      price: 700, 
+      imgSrc: img1, 
+      id: "jpl" 
+    },
+    { 
+      name: "Mac-Book", 
+      price: 800, 
+      // imgSrc: img1,
+      imgSrc: img1, 
+      id: "abc" 
+    }, 
+    { 
+      name: "DDR4", 
+      price: 900, 
       imgSrc: img1, 
       id: "jpl" 
     }
