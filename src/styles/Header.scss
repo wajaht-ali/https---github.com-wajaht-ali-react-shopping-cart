@@ -6,6 +6,10 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     padding: 1rem;
+
+    >.home2:hover {
+        color: $tertiary;
+    }
     >h2 {
         text-transform: uppercase;
         color: $primary;

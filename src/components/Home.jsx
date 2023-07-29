@@ -10,14 +10,14 @@ const Home = () => {
 
   const Productlist = [
     { 
-      name: "Mac Book", 
+      name: "Mac-Book", 
       price: 700, 
       // imgSrc: img1,
       imgSrc: img1, 
       id: "abc" 
     }, 
     { 
-      name: "Shoes", 
+      name: "DDR4", 
       price: 300, 
       imgSrc: img1, 
       id: "jpl" 
@@ -25,6 +25,7 @@ const Home = () => {
   ];
   const addToCartHandler = (options) => {
     dispatch({type: "addToCart", payload: options})
+    dispatch({ type: 'calculatePrice' })
     toast.success('Added to cart.');
   }
   return (
