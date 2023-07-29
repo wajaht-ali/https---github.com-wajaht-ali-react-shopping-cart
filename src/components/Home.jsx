@@ -23,40 +23,40 @@ const Home = () => {
       id: "jpl" 
     },
     { 
-      name: "Mac-Book", 
+      name: "Pro-Book", 
       price: 400, 
       // imgSrc: img1,
       imgSrc: img1, 
       id: "abz" 
     }, 
     { 
-      name: "DDR4", 
+      name: "DDR2", 
       price: 500, 
       imgSrc: img1, 
       id: "jpa" 
     },
     { 
-      name: "Mac-Book", 
+      name: "Elite-Book", 
       price: 600, 
       // imgSrc: img1,
       imgSrc: img1, 
       id: "aby" 
     }, 
     { 
-      name: "DDR4", 
+      name: "DDR3", 
       price: 700, 
       imgSrc: img1, 
       id: "jpb" 
     },
     { 
-      name: "Mac-Book", 
+      name: "Lenovo", 
       price: 800, 
       // imgSrc: img1,
       imgSrc: img1, 
       id: "abx" 
     }, 
     { 
-      name: "DDR4", 
+      name: "SSD", 
       price: 900, 
       imgSrc: img1, 
       id: "jpc" 
