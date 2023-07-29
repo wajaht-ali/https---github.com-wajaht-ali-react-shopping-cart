@@ -60,6 +60,32 @@ const Home = () => {
       price: 900, 
       imgSrc: img1, 
       id: "jpc" 
+    },
+    { 
+      name: "Yoga M1", 
+      price: 900, 
+      // imgSrc: img1,
+      imgSrc: img1, 
+      id: "abm" 
+    }, 
+    { 
+      name: "SSD 128", 
+      price: 450, 
+      imgSrc: img1, 
+      id: "jpd" 
+    },
+    { 
+      name: "Thinkpad", 
+      price: 750, 
+      // imgSrc: img1,
+      imgSrc: img1, 
+      id: "abn" 
+    }, 
+    { 
+      name: "SSD 256", 
+      price: 850, 
+      imgSrc: img1, 
+      id: "jpl" 
     }
   ];
   const addToCartHandler = (options) => {
