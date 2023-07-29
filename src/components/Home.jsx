@@ -27,39 +27,39 @@ const Home = () => {
       price: 400, 
       // imgSrc: img1,
       imgSrc: img1, 
-      id: "abc" 
+      id: "abz" 
     }, 
     { 
       name: "DDR4", 
       price: 500, 
       imgSrc: img1, 
-      id: "jpl" 
+      id: "jpa" 
     },
     { 
       name: "Mac-Book", 
       price: 600, 
       // imgSrc: img1,
       imgSrc: img1, 
-      id: "abc" 
+      id: "aby" 
     }, 
     { 
       name: "DDR4", 
       price: 700, 
       imgSrc: img1, 
-      id: "jpl" 
+      id: "jpb" 
     },
     { 
       name: "Mac-Book", 
       price: 800, 
       // imgSrc: img1,
       imgSrc: img1, 
-      id: "abc" 
+      id: "abx" 
     }, 
     { 
       name: "DDR4", 
       price: 900, 
       imgSrc: img1, 
-      id: "jpl" 
+      id: "jpc" 
     }
   ];
   const addToCartHandler = (options) => {
